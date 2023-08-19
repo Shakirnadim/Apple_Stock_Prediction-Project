@@ -1,5 +1,6 @@
 # Apple_Stock_Prediction-Project
-Business Objective:
+#Business Objective:
+
 Predict the Apple stock market price for the next 30 days.
 There are Open, High, Low, and Close price has been given for each day starting from 2012 to 2019 for Apple stock.
 
