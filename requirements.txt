@@ -1,7 +1,6 @@
-
-1.numpy
-2.pandas
-3.Pillow
-4.plotly
-5.statsmodels
-6.streamlit==1.17.
+numpy
+pandas
+Pillow
+plotly
+statsmodels
+streamlit==1.17.0
