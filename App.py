@@ -36,7 +36,7 @@ st.subheader('Apple Dataset')
 
 df = pd.read_csv('AAPL.csv')
 df["Date"]=pd.to_datetime(df["Date"])
-df.set_index('Date',inplace=True)
+data=df.set_index('Date',inplace=True)
 
 
 # In[9]:
